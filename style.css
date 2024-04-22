@@ -1,0 +1,44 @@
+.boby h5 {
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+.boby h6 {
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+      body {
+        background-color: black;
+        width: auto;
+        height: auto;
+      }
+
+      body h5 {
+        color: white;
+      }
+
+      body h6 {
+        color: white ;
+        
+      }
+
+      header {
+        background-color: black;
+        width: auto;
+        height: auto;
+      }
+
+      .col img {
+        max-height: 400px;
+        min-height: 400px;
+        max-width: 400px;
+        min-width: 400px;
+      }
+      
+      
+
+
+     
